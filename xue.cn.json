@@ -6,8 +6,7 @@
      "avatar": "https://qncdn-live.tinfinite.com/user-logo/5af8fa50b47f110001358018/cf258860-f82e-433a-91d7-d648aca5c674?imageView2/1/w/250/h/250",
      "role": "origin"}],
      "chapters": [
-        {"path": "README.ipynb", "title": "0 韭菜的自我修养 / The self-cultivation of leeks"},
-        {"path": "The-Self-Cultivation-of-Leeks-cn_0.ipynb", "title": "0 韭菜的自我修养"},
+        {"path": "README.ipynb", "title": "0 韭菜的自我修养"},
         {"path": "The-Self-Cultivation-of-Leeks-cn_1_1.ipynb", "chapter_name":"中文版", "title": "1.0 0.前言", "display": "0.前言"},
         {"path": "The-Self-Cultivation-of-Leeks-cn_1_2.ipynb", "title": "1.1 1.他们所说的“韭菜”究竟是谁……", "display": "1.他们所说的“韭菜”究竟是谁……"},
         {"path": "The-Self-Cultivation-of-Leeks-cn_1_3.ipynb", "title": "1.2 2.“韭菜”的宿命从那一刻开始……", "display": "2.“韭菜”的宿命从那一刻开始……"},
